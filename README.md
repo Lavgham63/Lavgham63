@@ -3,7 +3,7 @@
 # Learning Journey: DevOps Cloud, SRE Engineer, & AI/ML Enthusiast
 
 ## Introduction
-Hey there! I'm [Your Name], a passionate student exploring the intersection of DevOps, Cloud technologies, Site Reliability Engineering (SRE), and the fascinating world of Artificial Intelligence (AI) and Machine Learning (ML). This GitHub repository documents my learning experiences, projects, and collaborations as I navigate through these exciting domains. I'm eager to connect with fellow students and engineers interested in this diverse tech landscape to learn, collaborate, and grow together.
+Hey there! I'm Lavgham, a passionate student exploring the intersection of DevOps, Cloud technologies, Site Reliability Engineering (SRE), and the fascinating world of Artificial Intelligence (AI) and Machine Learning (ML). This GitHub repository documents my learning experiences, projects, and collaborations as I navigate through these exciting domains. I'm eager to connect with fellow students and engineers interested in this diverse tech landscape to learn, collaborate, and grow together.
 
 ## Projects
 
